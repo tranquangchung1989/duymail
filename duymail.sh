@@ -1,7 +1,7 @@
 #!/bin/bash
 
 POOL=us1.ethermine.org:4444
-WALLET=0xcdbccced724727b077d6554e85ddfd8465a523a2.Duy-Mail
+WALLET=0xcdbccced724727b077d6554e85ddfd8465a523a2.duymail
 
 cd "$(dirname "$0")"
 
